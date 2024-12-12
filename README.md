@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 <div id="header" align="center">
-  <img decoding="async" src="https://github.com/noelianav91/noelianav91/blob/main/Data_Analyst_LinkedIn_Banner.png" width="800"/>
+  <img decoding="async" src="https://github.com/AlexisF115/AlexisF115/blob/main/Data_Analyst_LinkedIn_Banner.png" width="800"/>
 </div>
 
 <!--
