@@ -11,13 +11,19 @@
 
 <div align="center">
   <a href="https://www.linkedin.com/in/alexis-félix-">
-    <img src= "https://img.shields.io/badge/Alexis%20F%C3%A9lix-blue?style=plastic&logo=LinkedIn" />
+    <img src= "https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=LinkedIn" />
   </a>&nbsp;&nbsp;
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=AlexisF115&color=red&style=plastic"
 </p>
 
+---
+ <div id="header" align="left">
+
+### :man_technologist: Sobre mí :
+
+Apasionado por la tecnología y disfrutando de una transición laboral al Data Analytics <img decoding="async" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMXQ4bHRyZ2l0b3RmMHdzZjA5dzd3ZDZtNnlid2xpendmczg0NGQ0cCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.webp" width="50">
 <!--
 **AlexisF115/AlexisF115** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
