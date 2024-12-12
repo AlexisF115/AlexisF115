@@ -1,9 +1,8 @@
 ## Hi there 👋
 
 <div id="header" align="center">
-  <img decoding="async" src="https://github.com/AlexisF115/AlexisF115/blob/main/Data_Analyst_LinkedIn_Banner.png" width="800"/>
+  <img decoding="async" src="https://github.com/AlexisF115/AlexisF115/blob/main/Black & White Modern Minimalist Data Analyst LinkedIn Banner.png" width="800"/>
 </div>
-
 <!--
 **AlexisF115/AlexisF115** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
