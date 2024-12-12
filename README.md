@@ -3,8 +3,12 @@
 </div>
 
 <div align="center">
-  <a href="www.linkedin.com/in/alexis-félix-b1485b128">
+  <a href="www.linkedin.com/in/alexis-félix-">
     <img src= "https://img.shields.io/badge/Alexis%20F%C3%A9lix-blue?style=plastic&logo=LinkedIn" />
+  </a>&nbsp;&nbsp;
+
+  <a href="https://www.youtube.com/channel/UCTk4hR5N9e_Rmixdp4lEPNw?sub_confirmation=1">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
   </a>&nbsp;&nbsp;
 
 <!--
