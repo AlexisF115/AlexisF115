@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  <a href="www.linkedin.com/in/alexis-félix-">
+  <a href="https://www.linkedin.com/in/alexis-félix-">
     <img src= "https://img.shields.io/badge/Alexis%20F%C3%A9lix-blue?style=plastic&logo=LinkedIn" />
   </a>&nbsp;&nbsp;
 
