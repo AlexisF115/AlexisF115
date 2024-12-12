@@ -1,9 +1,12 @@
 <div id="header" align="center">
   <img decoding="async" src="https://github.com/AlexisF115/AlexisF115/blob/main/Black & White Modern Minimalist Data Analyst LinkedIn Banner.png" width="800"/>
 </div>
-[![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alexis-félix-b1485b128)
+
+[![Static Badge](https://img.shields.io/badge/Alexis%20F%C3%A9lix-blue?style=plastic&logo=LinkedIn)](www.linkedin.com/in/alexis-félix-b1485b128)
+
 <!--
 **AlexisF115/AlexisF115** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 
 Here are some ideas to get you started:
 
@@ -15,5 +18,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
---> ![Static Badge](https://img.shields.io/badge/Alexis%20F%C3%A9lix-blue?style=plastic&logo=LinkedIn&link=www.linkedin.com%2Fin%2Falexis-f%C3%A9lix-b1485b128)
+--> 
 
