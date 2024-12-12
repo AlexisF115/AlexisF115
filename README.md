@@ -25,7 +25,7 @@
 
 Apasionado por la tecnología y disfrutando de una transición laboral al Data Analytics <img decoding="async" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMXQ4bHRyZ2l0b3RmMHdzZjA5dzd3ZDZtNnlid2xpendmczg0NGQ0cCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.webp" width="50">
 
-* :telescope: Actualmente estoy trabajando en el departamento de sistemas de una firma de abogados profesionistas altamente especializados en reclamación de seguros pero necesito nuevos retos y seguir crediciendo laboralmente. :muscle:
+* :telescope: Actualmente estoy trabajando en el departamento de sistemas de una firma de abogados profesionistas altamente especializados en reclamación de seguros pero necesito nuevos retos y seguir creciendo laboralmente. :muscle:
 
 * :seedling: Estoy estudiando :blue_book: y practicando :computer: lenguaje SQL y Python, sin dejar de lado las increíbles herramientas de Microsoft.
 
